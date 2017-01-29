@@ -1,0 +1,32 @@
+{
+  "name": "photogram",
+  "version": "0.1.0",
+  "description": "A version of Instagram built on NodeJS",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpuente/photogramjs.git"
+  },
+  "keywords": [
+    "instagram",
+    "nodejs",
+    "javascript",
+    "photogram"
+  ],
+  "author": "Guillermo Puente Sandoval",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gpuente/photogramjs/issues"
+  },
+  "homepage": "https://github.com/gpuente/photogramjs#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "materialize-css": "^0.98.0",
+    "pug": "^2.0.0-beta10"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0"
+  }
+}
